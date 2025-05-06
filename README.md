@@ -1,1 +1,1 @@
-# practica-01-git
+# practica-git
